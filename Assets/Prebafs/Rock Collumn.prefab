@@ -13,7 +13,11 @@ GameObject:
   - component: {fileID: 6970112142509766077}
   - component: {fileID: 825507583687483789}
   - component: {fileID: 3769005008070248820}
+<<<<<<< HEAD
   - component: {fileID: 5824203073655121722}
+=======
+  - component: {fileID: 848883321423656694}
+>>>>>>> 066f53e882c41c0c1cad4260f770de9f154a0537
   m_Layer: 0
   m_Name: Rock Collumn
   m_TagString: Untagged
@@ -188,7 +192,11 @@ EdgeCollider2D:
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
   m_UseAdjacentEndPoint: 0
+<<<<<<< HEAD
 --- !u!61 &5824203073655121722
+=======
+--- !u!61 &848883321423656694
+>>>>>>> 066f53e882c41c0c1cad4260f770de9f154a0537
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -220,7 +228,11 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
+<<<<<<< HEAD
   m_Offset: {x: 0.24, y: -3.98}
+=======
+  m_Offset: {x: 0.2, y: -3.72}
+>>>>>>> 066f53e882c41c0c1cad4260f770de9f154a0537
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -231,7 +243,11 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 0.35, y: 3.86}
+=======
+  m_Size: {x: 0.23, y: 3.62}
+>>>>>>> 066f53e882c41c0c1cad4260f770de9f154a0537
   m_EdgeRadius: 0
 --- !u!1 &3816526833921254139
 GameObject:

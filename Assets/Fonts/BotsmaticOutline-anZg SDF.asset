@@ -1,6 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD
 --- !u!21 &-5046703203413952429
+=======
+--- !u!21 &-2106821794428274280
+>>>>>>> 066f53e882c41c0c1cad4260f770de9f154a0537
 Material:
   serializedVersion: 8
   m_ObjectHideFlags: 0
@@ -36,7 +40,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
+<<<<<<< HEAD
         m_Texture: {fileID: 6961182588378836329}
+=======
+        m_Texture: {fileID: 736481673088494103}
+>>>>>>> 066f53e882c41c0c1cad4260f770de9f154a0537
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OutlineTex:
@@ -121,7 +129,11 @@ MonoBehaviour:
   m_Name: BotsmaticOutline-anZg SDF
   m_EditorClassIdentifier: 
   hashCode: -1721978122
+<<<<<<< HEAD
   material: {fileID: -5046703203413952429}
+=======
+  material: {fileID: -2106821794428274280}
+>>>>>>> 066f53e882c41c0c1cad4260f770de9f154a0537
   materialHashCode: -654017898
   m_Version: 1.1.0
   m_SourceFontFileGUID: 049b2c79f3afd41d9b0fdfd1a9cdf438
@@ -685,7 +697,11 @@ MonoBehaviour:
     m_GlyphIndex: 28
     m_Scale: 1
   m_AtlasTextures:
+<<<<<<< HEAD
   - {fileID: 6961182588378836329}
+=======
+  - {fileID: 736481673088494103}
+>>>>>>> 066f53e882c41c0c1cad4260f770de9f154a0537
   m_AtlasTextureIndex: 0
   m_IsMultiAtlasTexturesEnabled: 0
   m_ClearDynamicDataOnBuild: 0
@@ -886,7 +902,11 @@ MonoBehaviour:
   boldSpacing: 7
   italicStyle: 35
   tabSize: 10
+<<<<<<< HEAD
 --- !u!28 &6961182588378836329
+=======
+--- !u!28 &736481673088494103
+>>>>>>> 066f53e882c41c0c1cad4260f770de9f154a0537
 Texture2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
